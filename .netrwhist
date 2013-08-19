@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/daydreamer/benchmarks/rodinia_2.2/cuda/gaussian'
+let g:netrw_dirhist_2='/home/daydreamer/benchmarks/rodinia_2.2/cuda/particlefilter'
+let g:netrw_dirhist_3='/home/daydreamer/benchmarks/rodinia_2.2/cuda/pathfinder'
+let g:netrw_dirhist_4='/home/daydreamer/project/v3.x/lib/4000'
+let g:netrw_dirhist_5='/home/daydreamer/project/v3.x/lib'
+let g:netrw_dirhist_6='/home/daydreamer/project/v3.x'
+let g:netrw_dirhist_7='/home/daydreamer/project/v3.x/libcuda'
