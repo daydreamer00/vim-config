@@ -398,6 +398,18 @@ endfunction
 "BY JKM
 """""""""""""""""""""""""""""""""""""""""""""
 
+"Python support start
+"""""""""""""""""""""
+filetype off 
+call pathogen#runtime_append_all_bundles()
+call pathogen#helptags()
+
+set foldmethod=indent
+set foldlevel=99
+
+"Python support end
+""""""""""""""""""""
+
 " Taglist issue
 nnoremap <silent> <F8> :TlistToggle<CR>
 let Tlist_Auto_Open=1
